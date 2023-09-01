@@ -23,6 +23,12 @@ section {
     margin:  10px auto;
     box-shadow: 5px 5px 10px #0000006c;
 }
+#seltab {
+    overflow: hidden;
+    border: none;
+    padding-top: 10px;
+}
+
  footer {
     text-align: center;
     margin:  10px;
